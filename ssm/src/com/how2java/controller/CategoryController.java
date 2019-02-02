@@ -29,7 +29,7 @@ public class CategoryController {
 		mav.setViewName("listCategory");
 		return mav;
 		//nihaoya
-		//帅不帅
+		//哈哈哈
 	}
 
 }
