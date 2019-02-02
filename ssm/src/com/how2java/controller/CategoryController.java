@@ -28,6 +28,7 @@ public class CategoryController {
 		// 放入jsp路径
 		mav.setViewName("listCategory");
 		return mav;
+		//nihaoya
 	}
 
 }
