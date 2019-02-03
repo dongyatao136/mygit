@@ -3,7 +3,7 @@ package com.how2java.mapper;
 import java.util.List;
 
 import com.how2java.pojo.Category;
- //aaabb
+ //aaabbbb
 public interface CategoryMapper {
  
     public int add(Category category);  
