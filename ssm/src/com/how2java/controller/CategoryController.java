@@ -12,6 +12,7 @@ import com.how2java.pojo.Category;
 import com.how2java.service.CategoryService;
 
 // 告诉spring mvc这是一个控制器类
+//十八
 @Controller
 @RequestMapping("")
 public class CategoryController {
