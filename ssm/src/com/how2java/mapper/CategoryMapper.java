@@ -6,7 +6,6 @@ import com.how2java.pojo.Category;
  
 public interface CategoryMapper {
  
-//      222
     public int add(Category category);  
        
       

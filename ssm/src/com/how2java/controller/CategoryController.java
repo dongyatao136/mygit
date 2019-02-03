@@ -1,6 +1,5 @@
 package com.how2java.controller;
 
-//小伙子
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,9 +9,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.how2java.pojo.Category;
 import com.how2java.service.CategoryService;
-
-// 告诉spring mvc这是一个控制器类
-//十八
 @Controller
 @RequestMapping("")
 public class CategoryController {
@@ -29,9 +25,6 @@ public class CategoryController {
 		// 放入jsp路径
 		mav.setViewName("listCategory");
 		return mav;
-		//nihaoya
-		//哈哈哈
-//		aaabbb
 	}
 
 }

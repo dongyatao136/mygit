@@ -1,7 +1,6 @@
 package com.how2java.pojo;
 
 public class Category {
-	//33
 	private int id;
 	private String name;
 	public int getId() {
@@ -20,7 +19,6 @@ public class Category {
 	public String toString() {
 		return "Category [id=" + id + ", name=" + name + "]";
 	}
-//	呱呱呱
 	
 	
 }
