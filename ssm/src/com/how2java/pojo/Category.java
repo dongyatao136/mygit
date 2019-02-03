@@ -1,6 +1,7 @@
 package com.how2java.pojo;
 
 public class Category {
+	//33
 	private int id;
 	private String name;
 	public int getId() {
