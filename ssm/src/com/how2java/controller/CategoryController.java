@@ -15,7 +15,7 @@ import com.how2java.service.CategoryService;
 public class CategoryController {
 	@Autowired
 	CategoryService categoryService;
-//aaa
+//bbb
 	@RequestMapping("listCategory")
 	public ModelAndView listCategory(){
 		ModelAndView mav = new ModelAndView();
