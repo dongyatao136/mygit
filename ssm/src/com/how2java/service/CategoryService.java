@@ -5,7 +5,7 @@ import java.util.List;
 import com.how2java.pojo.Category;
 
 public interface CategoryService {
-//44
+//467
 	List<Category> list();
 //h还好
 }
