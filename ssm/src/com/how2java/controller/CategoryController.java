@@ -13,9 +13,15 @@ import com.how2java.service.CategoryService;
 @Controller
 @RequestMapping("")
 public class CategoryController {
+<<<<<<< HEAD
 	@Autowired
 	CategoryService categoryService;
 	//aaaab
+=======
+	@Autowired
+	CategoryService categoryService;
+//aaaabb
+>>>>>>> branch 'master' of https://github.com/dongyatao136/mygit.git
 	@RequestMapping("listCategory")
 	public ModelAndView listCategory(){
 		ModelAndView mav = new ModelAndView();
