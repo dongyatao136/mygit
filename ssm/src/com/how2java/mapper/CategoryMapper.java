@@ -3,7 +3,11 @@ package com.how2java.mapper;
 import java.util.List;
 
 import com.how2java.pojo.Category;
+<<<<<<< HEAD
  //aaabbbbbbbbbb
+=======
+ //aaabbbbbbbcc
+>>>>>>> branch 'master' of https://github.com/dongyatao136/mygit.git
 public interface CategoryMapper {
  
     public int add(Category category);  
