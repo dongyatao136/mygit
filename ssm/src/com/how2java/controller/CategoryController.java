@@ -30,7 +30,11 @@ public class CategoryController {
 		return mav;
 		//nihaoya
 		//哈哈哈
+<<<<<<< HEAD
 //		aaa
+=======
+//		bbb
+>>>>>>> branch 'master' of https://github.com/dongyatao136/mygit.git
 	}
 
 }
