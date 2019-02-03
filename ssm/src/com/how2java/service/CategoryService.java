@@ -7,5 +7,5 @@ import com.how2java.pojo.Category;
 public interface CategoryService {
 
 	List<Category> list();
-//h还好
+//h还好是不是
 }
