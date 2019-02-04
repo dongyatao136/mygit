@@ -13,6 +13,7 @@ import com.how2java.service.CategoryService;
 @Controller
 @RequestMapping("")
 public class CategoryController {
+	//董亚涛你什么都不是
 	@Autowired
 	CategoryService categoryService;
 	//aaaabc
@@ -25,6 +26,7 @@ public class CategoryController {
 		mav.addObject("cs", cs);
 		// 放入jsp路径
 		mav.setViewName("listCategory");
+		//你是不是傻  
 		return mav;
 	}
 
