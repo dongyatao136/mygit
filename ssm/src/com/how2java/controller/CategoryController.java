@@ -13,7 +13,7 @@ import com.how2java.service.CategoryService;
 @Controller
 @RequestMapping("")
 public class CategoryController {
-	//董亚涛你什么都不是
+	//我还是我
 	@Autowired
 	CategoryService categoryService;
 	//aaaabc
@@ -21,7 +21,7 @@ public class CategoryController {
 	public ModelAndView listCategory(){
 		ModelAndView mav = new ModelAndView();
 		List<Category> cs= categoryService.list();
-		
+		//你说我是谁
 		// 放入转发参数
 		mav.addObject("cs", cs);
 		// 放入jsp路径
