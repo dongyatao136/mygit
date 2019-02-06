@@ -16,7 +16,7 @@ public class CategoryController {
 	//我还是我
 	@Autowired
 	CategoryService categoryService;
-	//aaaabc
+	//往前把大闹一场
 	@RequestMapping("listCategorby")
 	public ModelAndView listCategory(){
 		ModelAndView mav = new ModelAndView();
@@ -29,5 +29,4 @@ public class CategoryController {
 		//你是不是傻  
 		return mav;
 	}
-
 }
